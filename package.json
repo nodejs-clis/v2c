@@ -1,0 +1,33 @@
+{
+  "name": "v2c",
+  "version": "1.0.0",
+  "private": false,
+  "description": "转换 *.vue 组件文件为 CommonJS 规范模块",
+  "scripts": {
+  },
+  "preferGlobal": true,
+  "bin": {},
+  "engines": {
+    "node": ">= 6.0.0",
+    "iojs": ">= 1.0.0"
+  },
+  "main": "index.js",
+  "keywords": [
+    "cloudcome",
+    "ydr.me"
+  ],
+  "author": "#云淡然 <cloudcome@163.com> (https://ydr.me/)",
+  "contributors": [],
+  "homepage": "https://github.com/cloudcome/v2c",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cloudcome/v2c"
+  },
+  "bugs": {
+    "url": "https://github.com/cloudcome/v2c/issues"
+  },
+  "dependencies": {},
+  "peerDependencies": {},
+  "devDependencies": {},
+  "license": "MIT"
+}
